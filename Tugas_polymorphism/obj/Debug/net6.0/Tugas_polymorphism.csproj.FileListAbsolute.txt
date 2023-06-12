@@ -1,0 +1,15 @@
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\bin\Debug\net6.0\Tugas_polymorphism.exe
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\bin\Debug\net6.0\Tugas_polymorphism.deps.json
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\bin\Debug\net6.0\Tugas_polymorphism.runtimeconfig.json
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\bin\Debug\net6.0\Tugas_polymorphism.dll
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\bin\Debug\net6.0\Tugas_polymorphism.pdb
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.csproj.AssemblyReference.cache
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.AssemblyInfoInputs.cache
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.AssemblyInfo.cs
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.csproj.CoreCompileInputs.cache
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.dll
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\refint\Tugas_polymorphism.dll
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.pdb
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\Tugas_polymorphism.genruntimeconfig.cache
+F:\MATERI\S2\04-PEMOGRAMAN\PERTEMUAN\9\Kumpul\Tugas_polymorphism\Tugas_polymorphism\obj\Debug\net6.0\ref\Tugas_polymorphism.dll
